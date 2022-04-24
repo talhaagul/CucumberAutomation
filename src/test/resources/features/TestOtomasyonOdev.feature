@@ -21,7 +21,7 @@ Feature: TestOtomasyonOdev
     Then Sepete gider ve en ucuz urunun adet sayisini 2 yapar
     And Misafir olarak odeme adimina ilerler
     And Istenilen iletisim bilgilerini girer ve ödeme adimina gecer "<Email>","<Ceptelefonu>","<AdSoyad>","<Adres>","<Ceptelefonu2>"
-    #Cok tekrar yapınca iletisim bilgilerine ulasmadan captcha cıkıyor, seleniumla handle edilemediginden manuel handle etmek gerekiyor
+    #Cok tekrar yapınca iletisim bilgilerine ulasmadan captcha cıkıyor
 
     Examples:
       |Email|Ceptelefonu|AdSoyad|Adres|Ceptelefonu2
