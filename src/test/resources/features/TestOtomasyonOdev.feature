@@ -24,5 +24,5 @@ Feature: TestOtomasyonOdev
     #Cok tekrar yapınca iletisim bilgilerine ulasmadan captcha cıkıyor
 
     Examples:
-      |Email|Ceptelefonu|AdSoyad|Adres|Ceptelefonu2
-      |catlaina.md.e9c.0.8@gmail.com|6156012063|Kenan Kara|merkez mahallesi|078538901
+      |Email|Ceptelefonu|AdSoyad|Adres|Ceptelefonu2|
+      |catlaina.md.e9c.0.8@gmail.com|6156012063|Kenan Kara|merkez mahallesi|078538901|
